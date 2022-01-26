@@ -1,4 +1,4 @@
-import Produto from "../model/produto";
+import Produto from '../model/produto'
 
 export default [
     new Produto(1, "iPad", 7543),
